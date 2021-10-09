@@ -16,7 +16,7 @@
 
 ### Useful Functions
 
-- [C++ split string](#C++ split string)
+- [C++ split string](#split-string-C++)
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-#### C++ split string
+#### split-string-C++
 
 Here is a quick way to do string splitting in c++ using STL. Then you don't need to use ```find``` that can get you astray. 
 
